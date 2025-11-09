@@ -106,10 +106,10 @@ QueueCTL is a CLI-based background job queue system with the following design:
 
 1. Tests are located in `tests/` folder.
 
-2. Run tests using `pytest` inside your virtual environment:
+2. Run tests using `python` inside your virtual environment:
 
    ```bash
-   pytest tests/
+   python tests/
    ```
 
 3. Tests cover:
